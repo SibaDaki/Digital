@@ -1,13 +1,6 @@
-Org-cart
-========
+Digital Stolvel
 
-orgnigation chat php mysql json
+Please check the code on Digital folder, the rest is for reference and guidance.
 
-Download Code 
 
-Import tree.sql in your database
-
-Visit org-chart/index.html
-
- 
 
